@@ -17,3 +17,8 @@ npx expo start
 ```
 
 # Overview
+<div align="center">
+  <img src="./IMG_1678 2.PNG" alt="Description of image 1" width="250" height="250">
+  <img src="./IMG_1679.PNG" alt="Description of image 2" width="250" height="250">
+  <img src="./IMG_1680 2.PNG" alt="Description of image 3" width="250" height="250">
+</div>
